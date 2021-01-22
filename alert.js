@@ -1,1 +1,0 @@
-alert('this is small tribute ಥ_ಥ to our hero neji hyuga ❤');
